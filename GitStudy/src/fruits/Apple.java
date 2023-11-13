@@ -4,6 +4,9 @@ public class Apple {
 	int price;
 	int quality;
 	
+	// add qty
+	int qty;
+	
 	public int getPrice() {
 		return price;
 	}
