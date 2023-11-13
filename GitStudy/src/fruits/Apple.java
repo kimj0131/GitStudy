@@ -5,7 +5,9 @@ public class Apple {
 	int quality;
 	
 	// add qty
-	int qty;
+	int qty1;
+	int qty2;
+	int qty3;
 	
 	public int getPrice() {
 		return price;
