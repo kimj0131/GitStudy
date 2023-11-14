@@ -4,7 +4,7 @@ public class Apple {
 	int price;
 	int quality;
 	
-	// add qty
+	// add qtys
 	int qty1;
 	int qty2;
 	int qty3;
